@@ -2,7 +2,7 @@
 
  ## description
   i have worked on this with yaise
-  
+
 ##  Contents
     - [description](#description)
     - [Installation](#Installation)
@@ -28,7 +28,7 @@
 
 
 ## Aurthors
-  
+  s
 
 
 ## screenshots
